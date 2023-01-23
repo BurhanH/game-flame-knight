@@ -1,4 +1,4 @@
-# The Flame Knight game
+# The Flame Knight
 
 ## Ideas
 
