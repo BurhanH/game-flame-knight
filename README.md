@@ -2,6 +2,8 @@
 
 ## Ideas
 
+Resource - https://www.youtube.com/watch?v=izNXbMdu348&list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw_GJ
+
 ### Protaganist 
 Jhoros (Flame Knight). He has Flamethrower (weapon). He can walk, jump, run.
 Features: Range attack and Melee attack.
