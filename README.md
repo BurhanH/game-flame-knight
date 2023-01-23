@@ -4,7 +4,7 @@
 
 Resources - https://www.youtube.com/watch?v=izNXbMdu348&list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw_GJ
 
-[ChatGPT](https://chat.openai.com/) (story line, game development), [DALL-E](https://labs.openai.com/) (generate charachters)
+[ChatGPT](https://chat.openai.com/) (story line, game development), [DALL-E](https://labs.openai.com/) (characters generation)
 
 ### Protaganist 
 Jhoros (Flame Knight). He has Flamethrower (weapon). He can walk, jump, run.
