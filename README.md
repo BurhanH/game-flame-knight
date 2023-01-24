@@ -46,3 +46,7 @@ Features: Range attack and Melee attack.
 >
 > Upon defeating the dragon, the player will be hailed as a hero and the leader of the new world. The player will have the opportunity to help rebuild and lead the new civilization, or continue on their journey to find other challenges and adventures.
 >
+
+### Promo
+
+![](promo/Promo-beta.mp4)
