@@ -49,4 +49,6 @@ Features: Range attack and Melee attack.
 
 ### Promo
 
-[](/promo/Promo-beta.mp4)
+https://user-images.githubusercontent.com/10044244/214194447-cd2b16fb-bd8d-4988-80c7-dff0f43588d3.mp4
+
+
